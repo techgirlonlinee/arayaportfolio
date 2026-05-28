@@ -208,6 +208,7 @@ section .assets {
 section .assets img {
 	display: flex;
 	overflow: auto;
+	width: 100%;
 }
 
 /* Responsive Adjustments */
